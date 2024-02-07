@@ -47,6 +47,6 @@ The backend is built with Express.js and handles API requests from the frontend,
 
 Url: https://kwmp3w-3001.csb.app/ (Recommonded browser Google Chrome)
 
-Author: Lohith Sai Andra
+Author: Lohith Sai Andra\n
 Submitted to: Dharma Akmon
 
