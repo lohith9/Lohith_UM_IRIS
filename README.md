@@ -42,4 +42,8 @@ The backend is built with Express.js and handles API requests from the frontend,
 
 5. **DELETE /api/cart/:bookId**
    - Removes a book from the shopping cart.
+  
+## Live version of Book Store
+
+Url: https://kwmp3w-3001.csb.app/
 
