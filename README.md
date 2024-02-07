@@ -45,5 +45,8 @@ The backend is built with Express.js and handles API requests from the frontend,
   
 ## Live version of Book Store
 
-Url: https://kwmp3w-3001.csb.app/
+Url: https://kwmp3w-3001.csb.app/ (Recommonded browser Google Chrome)
+
+Author: Lohith Sai Andra
+Submitted to: Dharma Akmon
 
